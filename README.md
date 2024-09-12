@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/@sohampatil4309">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="(www.x.com/sohampatil2002)">
+  <a href="(https://www.x.com/sohampatil2002)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
